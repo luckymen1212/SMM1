@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1016505669366",
+    "project_id": "fea-smm",
+    "storage_bucket": "fea-smm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016505669366:android:9dbdb90e9660c862ecbed7",
+        "android_client_info": {
+          "package_name": "com.feavn.smm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016505669366-eu809eo5dak26jotaoncm2883o8ghetq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.feavn.smm",
+            "certificate_hash": "c8b3628a4063436ab3096eeb0fa75b71d1f0b46b"
+          }
+        },
+        {
+          "client_id": "1016505669366-8bgges0k5uafl1q725u5m9gc6n8cbqvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWLFmQ7e-yi50B_x9L5EBsxi4fAgijvAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016505669366-8bgges0k5uafl1q725u5m9gc6n8cbqvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
